@@ -1,0 +1,134 @@
+-- Insertar nuevos datos en la columna Pronuncia
+INSERT INTO Chiste (Pronuncia)
+VALUES 
+    ('"Me encantan los mensajes de voz". "Yo los detesto". "Sí, esos también molan".'),
+    ('¿Qué hace un mudo bailando? Una mudanza.'),
+    ('"Hola, busco trabajo". "¿Le interesa de jardinero?". "¿Dejar dinero? ¡Si lo que busco es trabajo!".'),
+    ('¿Qué le dice una impresora a otra? Esta hoja es tuya o es impresión mía.'),
+    ('"¿Qué tal tu primer día de parkour?". "De fruta madre".'),
+    ('"Me acabo de tirar un pedo de esos silenciosos, ¿qué hago?". "Ahora nada, pero, cuando llegues a casa, cámbiale las pilas al audífono".'),
+    ('"Me han despedido". "¿Y qué vas a hacer?". "Croquetas". "Digo con tu vida". "Pues comerme unas croquetas".'),
+    ('"¿Me da un café con leche corto?". "Se ha roto la máquina, cambio".'),
+    ('"Buenas, quería una camiseta de un personaje inspirador". "¿Gandhi?". "No, mediani".'),
+    ('¿Sabes por qué no se puede discutir con un DJ? Porque siempre están cambiando de tema.'),
+    ('"No sé si conseguiré enamorar a esa chica". "¿Tienes vacas y ovejas?". "Sí". "Pues ya tienes mucho ganado".'),
+    ('¿Qué hace un perro con un taladro? Ta-ladrando.'),
+    ('¿Qué le dice un pingüino a una pingüina? ¡Como tú ningüina!'),
+    ('¿Qué hace una abeja en el gimnasio? Zumba'),
+    ('"¿Sabes? Hoy me he comprado una paloma que cuesta diez mil euros". "¿Mensajera?". "No no, no te exagero en absoluto".'),
+    ('¿Qué le dice la foca a su madre? I love you, mother foca.'),
+    ('¿Y qué le dice una morsa a otra morsa? ¿Almorsamos o qué?'),
+    ('¿Por qué los patos no tienen amigos? Porque son muy antipáticos.'),
+    ('¿Y qué le dice un pato a otro pato con el que estaba compitiendo en una carrera? Hemos empatado.'),
+    ('¿Qué le dice un chinche a una chinche? Te amo chincheramente.'),
+    ('¿Cuál es la fruta más divertida? La naranja ja ja ja ja.'),
+    ('¿Y cuál es la fruta favorita de Beethoven? La ba na na naaaaa.'),
+    ('Una pera esperando el autobús. Llega una manzana y le pregunta: "¿Hace mucho que espera?". "Uy sí, desde que era pequeñita".'),
+    ('Me he sacado el carnet de manipulador de alimentos. Ya tengo a los plátanos y a las mandarinas totalmente en contra de las fresas.'),
+    ('Hay un montón de manzanas en un árbol y de repente una se cae. Todas las de arriba empiezan a reírse y a burlarse de la que se ha caído y ésta responde: "No os riáis, ¡inmaduras!".'),
+    ('"Camarero, ¿me aliña la ensalada?". "Con el uno el pepino, con el dos el tomate, con el tres la cebolla...".'),
+    ('¿Cuál es el mejor portero del Mundial? ¡El de Para-guay!'),
+    ('"Cariño, estás obsesionado con el fútbol y me haces falta". "¿Qué dices? ¿Cómo que falta? ¡Pero si ni te he tocado!".'),
+    ('Un tipo va a inscribirse en la escuela de árbitros: "Hola, buenos días. Vengo a apuntarme para la carrera de árbitro". "¡Pepe! Hay que tomarle los datos a este desgraciado". "Un momentito: yo no soy ningún desgraciado, ¿eh?". "¡Pepe! No vengas, que este hombre no sirve".'),
+    ('¿Qué hacen los árbitros de fútbol cuándo van al baño? Expulsar a Kaká.'),
+    ('¿Por qué las focas del circo miran siempre hacia arriba? Porque es donde están los focos.'),
+    ('Había una vez un niño tan, tan, tan despistado que... ¡da igual, me he olvidado del chiste!'),
+    ('¿Qué le dice un techo a otro? Techo de menos.'),
+    ('¿Qué le dice un árbol a otro? ¡Qué pasa tronco!'),
+    ('¿Cuál es el último animal que subió al arca de Noé? El del-fin.'),
+    ('¿Cómo se dice pañuelo en japonés? Saka-moko.'),
+    ('"Hijo, me veo gorda, fea y vieja. ¿Qué tengo hijo, qué tengo?". "Mamá, tienes toda la razón".'),
+    ('¿Cuál es el colmo de Aladdín? Tener mal genio.'),
+    ('¿Qué es un pez en el cine? Pues un mero espectador...'),
+    ('¿Qué le dice un espagueti a otro? ¡Oye, mi cuerpo pide salsa!'),
+    ('"Pues la postura favorita de mi mujer en la cama es la del pez". "¿La del pez? Pues esa no la conozco". "Sí hombre. Se da la vuelta y... ¡nada!".'),
+    ('"Mamá, mamá, ¿cómo se explica que papá sea negro, tú blanca y yo amarillo?". "Mira chaval, si supieras la orgía que hubo ese día, lo que me extraña es que no ladres".'),
+    ('"Estoy saliendo con una chica que podría ser mi hija". "¿Sí? ¡Qué grande eres! ¡No sabes cómo me alegro! ¡Eres un verdadero tigre! Y dime: ¿quién es esa chica?". "Tu hija".'),
+    ('"Ahora tengo que tener mucho cuidado con quedarme embarazada". "Pero ¡si tu marido se ha hecho la vasectomía!". "Por eso, por eso...".'),
+    ('¿Te cuento un chiste verde rápido? Una lechuga en una moto'),
+    ('Una anciana le dice a otra: "Con los años, mi marido se ha convertido en una fiera en la cama". "¿Te hace el amor como un salvaje?". "No, se mea en las sábanas para marcar su territorio".'),
+    ('"Perdone señor, esto es para una encuesta, ¿su mujer grita cuando hacen el amor?". "Pues sí, bastante". "¿Y lo hace durante, después, antes...?". "No, lo hace después, cuando me limpio la polla con las cortinas".'),
+    ('Le dice un clítoris a otro: "Oye, que me han dicho que ya no te corres". "¡Bah eso son las malas lenguas!".'),
+    ('¿Cuál es el líquido más erótico? El agua caliente, porque pone los huevos duros y abre las almejas.'),
+    ('¿Qué le dice un mecánico a su mujer? "¡Mercedes, benz y ponte A4 patas que te voy a echar un Volvo y nacerá un Clío, porque en esto del Saxo no hay quién Megane!".'),
+    ('¿Por qué los espejos no utilizan WhatsApp? Porque se reflejan en el pasado.'),
+    ('¿Qué le dijo un pendrive a otro? "Eres mi puerto USB de la vida".'),
+    ('¿Cómo se llama el campeón de programación? Juan Decódigo.'),
+    ('¿Por qué los programadores siempre llevan una chaqueta? Porque en el código siempre hace frío.'),
+    ('¿Cuál es el animal más peligroso de Internet? El mouse-tro.'),
+    ('¿Qué le dice un GIF animado a otro? "Nos vemos en el próximo bucle".'),
+    ('¿Por qué los robots no tienen amigos? Porque son todos circuitos cerrados.'),
+    ('¿Cómo se llama el primer superhéroe que apareció en Internet? Spider-Manual.'),
+    ('¿Qué le dijo un altavoz a otro? "Nos vemos en el sonido".'),
+    ('¿Por qué el libro de matemáticas se volvió un influencer? Porque tenía muchos seguidores.'),
+    ('¿Por qué los cables de internet son tan tímidos? Porque siempre se esconden detrás de los routers.'),
+    ('¿Cómo se llama el sobrino del ratón Mickey que sabe programar? ¡Data!'),
+    ('¿Qué hace un celular en el gimnasio? ¡Ejercicios de flexión de aplicaciones!'),
+    ('¿Por qué el robot no va al gimnasio? Porque ya está bien programado.'),
+    ('¿Cómo llama un móvil a otro móvil? ¡Celular hermano!'),
+    ('¿Qué hace un perro en el espacio? ¡Un dog-italizador!'),
+    ('¿Por qué los peces no utilizan computadoras? Porque tienen miedo del spyware.'),
+    ('¿Por qué el smartphone fue al psicólogo? Porque tenía problemas de conexión emocional.'),
+    ('¿Qué le dijo el celular al enchufe? Eres mi media naranja.'),
+    ('¿Cuál es el animal más tecnológico? ¡El mouse!'),
+    ('¿Por qué el programador siempre está frío? Porque siempre está rodeado de ventiladores.'),
+    ('¿Cómo se llama el hijo de un laptop y una tablet? ¡Un niño portátil!'),
+    ('¿Cuál es el superhéroe favorito de un programador? ¡Ctrl + S (Guardar) Man!'),
+    ('¿Qué le dijo un bit al otro? ¡Nos vemos en el byte!'),
+    ('¿Por qué los robots no tienen hermanos? Porque son hijos únicos.'),
+    ('¿Por qué las madres siempre ganan las discusiones? Porque tienen argumentos ¡para-madre-los!'),
+    ('¿Cuál es el animal más antiguo de la historia? La suegra, ¡porque siempre está en la prehistoria!'),
+    ('Papá, ¿qué se siente tener un hijo tan guapo? No sé hijo, pregúntale a tu abuelo...'),
+    ('Mamá, en el colegio me llaman Facebook. ¿Y tú qué les has dicho? ¡Me gusta!'),
+    ('¿Cuál es el colmo de un jardinero? Tener hijos enraizados.'),
+    ('Papá, ¿qué se siente tener un hijo tan guapo? No sé hijo, pregúntale a tu abuelo...'),
+    ('Mamá, en el colegio me llaman "WhatsApp". ¿Y tú qué les has dicho? ¡Última conexión a las 2 de la mañana!'),
+    ('¿Qué hace una abuela surfeando? ¡Tirar la tabla y decir "mareo"!'),
+    ('Mamá, mamá, en el colegio me llaman "Facebook". ¿Y tú qué les has dicho? ¡Me gusta!'),
+    ('¿Qué hace una abuela en una pelea de perros? Apostar por el de ojos azules.'),
+    ('¿Por qué el libro de contabilidad fue al psicólogo? Porque tenía muchos desbalances emocionales.'),
+    ('¿Qué hacen dos abogados en una fiesta? Forman un bufete de abogados.'),
+    ('¿Por qué los carpinteros nunca se estresan? Porque siempre encuentran una solución a mano.'),
+    ('¿Qué le dijo el jefe al empleado que llegó tarde? "¡Espero que esto no se repita!".'),
+    ('¿Por qué el jardinero siempre lleva dos pantalones? Porque tiene doble empleo.'),
+    ('¿Qué hacen dos programadores cuando se encuentran en un bar? Intercambian bits de información.'),
+    ('¿Por qué el fontanero es tan buen trabajador? Porque siempre está en tubos los detalles.'),
+    ('¿Cuál es el animal favorito de los empleados de oficina? La rata de escritorio.'),
+    ('¿Qué hace un electricista cuando se enoja? Tira chispas por la boca.'),
+    ('¿Por qué los banqueros no son buenos en el fútbol? Porque siempre quieren hacer un gol de taquilla.'),
+    ('¿Cuál es el día favorito de un programador? El código viernes.'),
+    ('¿Cuál es el pájaro más trabajador? El que hace todos los "trinos" en la oficina.'),
+    ('¿Por qué el libro de historia tenía malas relaciones con los demás libros? Porque siempre vivía en el pasado.'),
+    ('¿Qué hace un chef cuando tiene un mal día en la cocina? Se agarra de las sartenes.'),
+    ('¿Por qué los bomberos no pueden trabajar desde casa? Porque siempre tienen que estar "in situ".');
+
+
+
+
+
+
+
+
+	
+-- Actualizar la columna Palabra con el valor de la columna Pronuncia
+-- Actualizar la columna Accion y la columna Palabra
+UPDATE Chiste
+SET Accion = 'Hablar',
+    Palabra = 'Chiste';
+
+
+-- Mostrar los datos en la tabla
+SELECT * FROM Chiste;
+--drop table chiste
+
+
+
+
+
+
+
+
+
+
+
+
